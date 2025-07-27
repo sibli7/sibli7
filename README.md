@@ -1,7 +1,7 @@
 
-![I am GitHub Readme Generator's creator]([https://media.licdn.com/dms/image/v2/D4E16AQEOwLx6Iw9Uyw/profile-displaybackgroundimage-shrink_350_1400/B4EZhKkrOHHgAY-/0/1753597789431?e=1756339200&v=beta&t=zSnpoMByxYEYMza_EtUc9q6sqpM7vakOveFhcwt1yAo](https://media.licdn.com/dms/image/v2/D4E16AQFRKX_4dL8nvw/profile-displaybackgroundimage-shrink_350_1400/B4EZhMJXtRHoAY-/0/1753624183375?e=1756339200&v=beta&t=Jut9ipnCL6-JOfIDpRxuO8p6auNd7zx-7e33YybP-Vg)
-### My name is Md. Shiblu Hossain
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D4E16AQFRKX_4dL8nvw/profile-displaybackgroundimage-shrink_350_1400/B4EZhMJXtRHoAY-/0/1753624183375?e=1756339200&v=beta&t=Jut9ipnCL6-JOfIDpRxuO8p6auNd7zx-7e33YybP-Vg)
 
+### MY NAME IS  MD SHIBLU HOSSAIN
 I’m a dedicated software/web developer actively seeking new opportunities where I can apply my skills to build scalable, user-focused solutions. I have experience across both backend and full-stack development, with proficiency in Python, Java, C/C++, Express.js, Next.js, Spring Boot, and Django.
 
 Whether it’s building scalable APIs, optimizing performance, or collaborating across teams to deliver high-quality software, I approach each challenge with a problem-solving mindset and a drive to learn.
@@ -22,9 +22,9 @@ Skills: Python / Java/ JavaScript/ Django/Spring-Boot/ DRF/Next js/Express js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sibli7)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sibli7&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sibli7&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sibli7/contributions?format=svg&private=false)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sibli7/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sibli7)  
 
